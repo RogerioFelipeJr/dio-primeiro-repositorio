@@ -1,0 +1,17 @@
+Como enviar para o seu repositório/portfólio:
+
+1- Entre na pasta desejada através do cmd ou qualquer outro terminal.
+
+2- Se não fez com git, delete qualquer arquivo Git para evitar conflito através do comando > rd .git /S/Q
+
+3- Inicie o Git em seu repositório local atrasvés do comando > git init
+
+4- Agora adicione todos os arquivos dentro da pasta que vao ser enviados através do comando > git add .
+
+5- Agora comite o arquivo com o comando > git commit -m "first commit"
+
+6- Agora use o popular origin para enviar o arquivo certo ao repositório/portfólio > git remote add origin (+ o link do repositorio no github)
+
+7- Agora use o push para "empurrar" os arquivos para seu repositorio > git push -u origin master
+
+Pronto, agora os arquivos foram enviados ao seu repositório/portfólio

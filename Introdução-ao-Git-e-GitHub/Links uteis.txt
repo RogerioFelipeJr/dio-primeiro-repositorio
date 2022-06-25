@@ -1,0 +1,5 @@
+Portal da Digital Innovation One > https://web.dio.me/home
+
+Download do git > https://git-scm.com/downloads
+
+Download Visual Studio Code > https://code.visualstudio.com/Download

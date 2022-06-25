@@ -1,0 +1,6 @@
+Como baixar um código clonando o repositorio
+
+1- Use o comando > git clone + o link da url
+
+Dessa forma o arquivo baixado vem com toda estrutura da original, incluindo .git
+o que o diferencia de uma pasta comum de um repositório.
